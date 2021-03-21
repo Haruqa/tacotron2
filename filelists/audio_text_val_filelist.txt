@@ -1,0 +1,5 @@
+/content/drive/MyDrive/colab/tacotron2/dataset/100_2_降雨の中を、|koounonakao.
+/content/drive/MyDrive/colab/tacotron2/dataset/100_3_南のバージニア州、|myinamyinobaajyinyiasyuu.
+/content/drive/MyDrive/colab/tacotron2/dataset/100_4_ウィンチェスター近くの、|wyiNcyestaacykakuno.
+/content/drive/MyDrive/colab/tacotron2/dataset/100_5_フィッシャーズヒルまで、|fyiQsyaazuhyirumade.
+/content/drive/MyDrive/colab/tacotron2/dataset/100_6_軍を退いた。|guNosyiryizoita.

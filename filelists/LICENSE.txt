@@ -1,0 +1,20 @@
+About audio_text_train_filelist.txt and audio_text_val_filelist.txt.
+
+LICENSE is CC-BY-SA 4.0.
+
+Those are from 声優統計コーパス(https://voice-statistics.github.io/). CC-BY-SA
+Yomi from https://hiroshiba.github.io/voiceactress100_ruby/.
+
+Authors are below;
+日本語版 Wikipedia https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+声優統計コーパス(日本声優統計学会) https://voice-statistics.github.io/
+JSUT https://sites.google.com/site/shinnosuketakamichi/publication/jsut
+　Ryosuke Sonobe (University of Tokyo) / 園部 良介 (東京大学) 
+　Shinnosuke Takamichi (@forthshinji, University of Tokyo) / 高道 慎之介 (東京大学)
+　Hiroshi Saruwatari (University of Tokyo) / 猿渡 洋 (東京大学)
+Hiroshiba https://github.com/Hiroshiba
+
+
+Remix by Haruqa.
+
+
