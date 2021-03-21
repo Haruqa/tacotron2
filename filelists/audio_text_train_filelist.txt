@@ -116,8 +116,8 @@
 /content/drive/MyDrive/colab/tacotron2/dataset/032_5_最も多い。.wav|moQtomoooi.
 /content/drive/MyDrive/colab/tacotron2/dataset/033_1_芸能プロダクション、.wav|geenoopurodaksyoN.
 /content/drive/MyDrive/colab/tacotron2/dataset/033_2_アミューズのグループ企業。.wav|amyuuzunoguruupkyigyoo.
-/content/drive/MyDrive/colab/tacotron2/dataset/034_3_長母音を省略して、.wav|cyooboiNosyooryaksyte.
-/content/drive/MyDrive/colab/tacotron2/dataset/034_4_エリュシオンとも表記される。.wav|eryusyioNtomohyookysareru.
+/content/drive/MyDrive/colab/tacotron2/dataset/034_1_長母音を省略して、.wav|cyooboiNosyooryaksyte.
+/content/drive/MyDrive/colab/tacotron2/dataset/034_2_エリュシオンとも表記される。.wav|eryusyioNtomohyookysareru.
 /content/drive/MyDrive/colab/tacotron2/dataset/035_1_森永のおいしい牛乳は、.wav|moryinaganooisyiigyuunyuuwa.
 /content/drive/MyDrive/colab/tacotron2/dataset/035_2_濃い青色に、.wav|koiaoironyi.
 /content/drive/MyDrive/colab/tacotron2/dataset/035_3_牛乳瓶をあしらったデザインの、.wav|gyuunyuubyiNoasyiraQtadezaiNno.
