@@ -2,19 +2,34 @@ About audio_text_train_filelist.txt and audio_text_val_filelist.txt.
 
 LICENSE is CC-BY-SA 4.0.
 
-Those are from º—D“ŒvƒR[ƒpƒX(https://voice-statistics.github.io/). CC-BY-SA
+Those are from å£°å„ªçµ±è¨ˆã‚³ãƒ¼ãƒ‘ã‚¹(https://voice-statistics.github.io/). CC-BY-SA
 Yomi from https://hiroshiba.github.io/voiceactress100_ruby/.
 
 Authors are below;
-“ú–{Œê”Å Wikipedia https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
-º—D“ŒvƒR[ƒpƒX(“ú–{º—D“ŒvŠw‰ï) https://voice-statistics.github.io/
+æ—¥æœ¬èªç‰ˆ Wikipedia https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+å£°å„ªçµ±è¨ˆã‚³ãƒ¼ãƒ‘ã‚¹(æ—¥æœ¬å£°å„ªçµ±è¨ˆå­¦ä¼š) https://voice-statistics.github.io/
 JSUT https://sites.google.com/site/shinnosuketakamichi/publication/jsut
-@Ryosuke Sonobe (University of Tokyo) / ‰€•” —Ç‰î (“Œ‹‘åŠw) 
-@Shinnosuke Takamichi (@forthshinji, University of Tokyo) / ‚“¹ T”V‰î (“Œ‹‘åŠw)
-@Hiroshi Saruwatari (University of Tokyo) / ‰“n —m (“Œ‹‘åŠw)
+ã€€Ryosuke Sonobe (University of Tokyo) / åœ’éƒ¨ è‰¯ä»‹ (æ±äº¬å¤§å­¦) 
+ã€€Shinnosuke Takamichi (@forthshinji, University of Tokyo) / é«˜é“ æ…ä¹‹ä»‹ (æ±äº¬å¤§å­¦)
+ã€€Hiroshi Saruwatari (University of Tokyo) / çŒ¿æ¸¡ æ´‹ (æ±äº¬å¤§å­¦)
 Hiroshiba https://github.com/Hiroshiba
-
 
 Remix by Haruqa.
 
 
+
+
+About ITA_audio_text_train_filelist.txt and ITA_audio_text_val_filelist.txt.txt.
+
+LICENSE is Public Domain.
+
+Those are from ITAã‚³ãƒ¼ãƒ‘ã‚¹(https://github.com/mmorise/ita-corpus). Public Domain
+
+Authors are below;
+    ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆç·æ‹¬ï¼šå°ç”°æ­å¤®ï¼ˆSSSåˆåŒä¼šç¤¾ï¼‰
+    ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆç®¡ç†ï¼šé‡‘äº•éƒä¹Ÿï¼ˆæ˜æ²»å¤§å­¦ï¼‰
+    æ–‡ç« ä½œæˆãƒ»ç®¡ç†ï¼šå°å£ç´”çŸ¢ï¼ˆæ˜æ²»å¤§å­¦ï¼‰
+    æ–‡ç« æŠ½å‡ºï¼šç´°ç”°è¨ˆ
+    ã‚¢ãƒ‰ãƒã‚¤ã‚¶ï¼šé½Šè—¤å‰›å²ï¼ˆä¹å·å·¥æ¥­å¤§å­¦ï¼‰ï¼Œæ£®å‹¢å°†é›…ï¼ˆæ˜æ²»å¤§å­¦ï¼‰
+
+Remix by Haruqa.
