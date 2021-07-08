@@ -152,7 +152,7 @@
 /content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_052.wav|makyoonyiasyiofumyiireru.
 /content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_053.wav|vaNdaavoQtotaimucyuuwa,iwayurupaatyiinoyoodehareyakades.
 /content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_054.wav|supyiryiQtstowajyooryuusyunokotodes.
-/content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_055.wav|nurusyianobenedyiktsuwaaporoNsyiNdeNokowasyibenedyiktokainosyuudooiNotateta.
+/content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_055.wav|nurusyianobenedyiktsuwaaporoNsyiNdeNokowasyi,benedyiktokainosyuudooiNotateta.
 /content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_056.wav|cyoodosonotokyi,destpaagogakoQpuomoQtetacyiagaryimasyta.
 /content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_057.wav|pafyiinoguQzuganokorazuheyanyiocytsuita.
 /content/drive/MyDrive/colab/tacotron2/dataset/RECITATION324_058.wav|epyifaanofuwasaifuonaksyta.
