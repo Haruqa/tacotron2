@@ -1,4 +1,6 @@
-About audio_text_train_filelist.txt and audio_text_val_filelist.txt.
+About
+・audio_text_train_filelist.txt
+・audio_text_val_filelist.txt.
 
 LICENSE is CC-BY-SA 4.0.
 
@@ -19,7 +21,12 @@ Remix by Haruqa.
 
 
 
-About ITA_audio_text_train_filelist.txt and ITA_audio_text_val_filelist.txt.txt.
+About
+・ITA_audio_text_train_filelist.txt
+・ITA_audio_text_val_filelist.txt.txt
+・ITA_EMO_audio_text_train_filelist.txt
+・ITA_EMO_audio_text_val_filelist.txt
+
 
 LICENSE is Public Domain.
 
