@@ -1,0 +1,5 @@
+/content/drive/MyDrive/colab/tacotron2/dataset/EMOTION100_050.wav|watasyinotsumagabyiNowaQtesyimaQtanode,daidokoronoyukawagyuunyuudarakenyinaQteiru.
+/content/drive/MyDrive/colab/tacotron2/dataset/EMOTION100_051.wav|keNkaosyteitaftaryinokodomowa,otagainyisykameQtsuraosytesuwaQteita.
+/content/drive/MyDrive/colab/tacotron2/dataset/EMOTION100_052.wav|jyigyoookeezoksyinagara,jyigyoogaikyosyteirufudoosaNo,kyiryiuryisyteikkotonadohyigeNjyitstekyinanoda.
+/content/drive/MyDrive/colab/tacotron2/dataset/EMOTION100_053.wav|sykasypepaabaaguwa,sonooomuokeNkyuusurukotonyiyoQte,doobutsunyitaisurukaNgaekatagakawaQtatoiQteiru.
+/content/drive/MyDrive/colab/tacotron2/dataset/EMOTION100_054.wav|paQkumaNgaarujyookeNomyitasto,oQtekurumoNstaaogyaksyuusytetaberukotogadekyiru.
